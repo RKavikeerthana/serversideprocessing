@@ -7,28 +7,22 @@ To design a website to perform mathematical calculations in server side.
 
 ### Step 1:
 
-
-
+Clone the repository from GitHub
 ### Step 2:
 
-
-
+Create Django Admin project.
 ### Step 3:
 
-
-
+Create a New App.
 ### Step 4:
 
-
-
+Create python programs for views and urls.
 ### Step 5:
 
-
-
+Create a HTML file of forms.
 ### Step 6:
 
 Publish the website in the given URL.
-
 ## PROGRAM :
 ```
 math.html
@@ -131,9 +125,14 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
+![Uploading Screenshot (43).png…]()
 
 ### Home Page:
 
 
-## Result:
 
+![Uploading Screenshot (42).png…]()
+
+
+## Result:
+Thus the output has been executed successfully.
