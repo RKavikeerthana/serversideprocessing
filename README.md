@@ -125,13 +125,16 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
-![Uploading Screenshot (43).png…]()
+
+
+![Screenshot (43)](https://user-images.githubusercontent.com/120431120/235423738-cd0c30e6-40f8-41f3-8095-2c165da9294f.png)
+
 
 ### Home Page:
 
+![Screenshot (42)](https://user-images.githubusercontent.com/120431120/235423717-117706d0-5eb6-4bac-937a-1ca010c3f46a.png)
 
 
-![Uploading Screenshot (42).png…]()
 
 
 ## Result:
